@@ -1,6 +1,6 @@
 ### Задание 1
 
-![Image of 1st task](/img/1.png)
+![Image of 1st task](/img/1.PNG)
 
 ### Задание 2
 
